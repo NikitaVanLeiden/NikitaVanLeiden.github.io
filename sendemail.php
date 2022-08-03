@@ -4,7 +4,7 @@
 
 
 // change the email address below to your own email address.
-$mailTo = 'myemail@email.com';
+$mailTo = 'leyden@email.cz';
 
 
 $name = htmlspecialchars($_POST['Name']);
